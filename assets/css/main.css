@@ -440,6 +440,7 @@ footer .container .social-links ul li i {
 
   footer .container #form {
     grid-area: form;
+    margin-right: 20px;
   }
 
   footer .container .footer-container-logo {
